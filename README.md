@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is siwacarn sirilert and I'm a software developer </h2>
+<h2 align="left">Hi 👋! My name is siwacarn sirilert and I'm a software developer. </h2>
 
 ###
 
@@ -43,6 +43,8 @@
 </div> -->
 
 ###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwacarn&layout=compact)
 
 <br clear="both">
 
