@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwacarn&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwacarn&layout=compact)
 
-![snake animation](https://github.com/siwacarn/siwacarn/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake-dark.svg)
 
 <!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
