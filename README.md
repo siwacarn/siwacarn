@@ -5,8 +5,10 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwacarn&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwacarn&layout=compact) -->
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=siwacarn&show_icons=true&theme=onedark">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=siwacarn&show_icons=true&theme=onedark" >
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siwacarn&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=siwacarn&theme=github">
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=siwacarn&theme=onedark" />
 </div>
 
 
