@@ -13,8 +13,6 @@
 <div align="center">
   <img width="49%" alt="Top languages"
        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siwacarn&layout=compact&hide_border=true&theme=onedark" />
-  <img width="49%" alt="Most productive time of day"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siwacarn&theme=one_dark&utcOffset=7" />
 </div>
 
 <br>
