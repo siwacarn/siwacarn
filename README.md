@@ -1,21 +1,31 @@
-<h2 align="left">Hi 👋! My name is siwacarn sirilert and I'm a software developer. </h2>
+<h1 align="center">Hi 👋! I'm Siwacarn Sirilert</h1>
+<p align="center">Software developer</p>
 
-###
+<br>
 
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=siwacarn&show_icons=true&theme=onedark" >
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siwacarn&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=siwacarn&theme=github">
-  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=siwacarn&theme=onedark" />
+<div align="center">
+  <img width="49%" alt="GitHub stats"
+       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=siwacarn&show_icons=true&hide_border=true&theme=onedark" />
+  <img width="49%" alt="Current streak"
+       src="https://streak-stats.demolab.com/?user=siwacarn&hide_border=true&theme=onedark" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img width="49%" alt="Top languages"
+       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siwacarn&layout=compact&hide_border=true&theme=onedark" />
+  <img width="49%" alt="Most productive time of day"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siwacarn&theme=one_dark&utcOffset=7" />
+</div>
 
+<br>
 
-<br clear="both">
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation"
+         src="https://raw.githubusercontent.com/siwacarn/siwacarn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
